@@ -1,0 +1,6 @@
+{
+  "name": "SppGo - SMP IT Miftahul Huda 520 Karangpucung",
+  "description": "Sistem Informasi Manajemen Pembayaran SPP dan Keuangan Sekolah SMP IT Miftahul Huda 520 Karangpucung dengan autentikasi JWT, kartu SPP digital, pencatatan kas TU, dan rekapitulasi laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
